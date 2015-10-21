@@ -1,5 +1,11 @@
-syntax on
+filetype off
+
+call pathogen#infect()
+call pathogen#helptags()
+
 filetype indent plugin on
+syntax on
+
 set number
 set ts=4
 set autoindent
