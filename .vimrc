@@ -14,3 +14,4 @@ set shiftwidth=4
 set cursorline
 set showmatch
 let python_highlight_all = 1
+let g:used_javascript_libs = 'angularjs'
